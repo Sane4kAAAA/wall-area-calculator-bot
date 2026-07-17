@@ -37,15 +37,15 @@ Telegram-бот для автоматического расчета площа�
 
 ### Стартовое меню бота
 
-![Start](screenshots/start.png)
+![Start](screenshots/start.jpg)
 
 ### Расчет площади стен
 
-![Calculation](screenshots/calculation.png)
+![Calculation](screenshots/calculation.jpg)
 
 ### Результат
 
-![Result](screenshots/result.png)
+![Result](screenshots/result.jpg)
 
 ---
 ## 👨‍💻 Автор
