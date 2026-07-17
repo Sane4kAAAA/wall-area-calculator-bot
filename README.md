@@ -41,8 +41,11 @@ Telegram-бот для автоматического расчета площа�
 
 ### Расчет площади стен
 
-![Calculation](screenshots/result.png)
+![Calculation](screenshots/calculation.png)
 
+### Результат
+
+![Calculation](screenshots/result.png)
 
 ## 👨‍💻 Автор
 
