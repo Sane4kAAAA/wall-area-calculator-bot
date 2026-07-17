@@ -45,7 +45,7 @@ Telegram-бот для автоматического расчета площа�
 
 ### Результат
 
-![Calculation](screenshots/result.png)
+![Result](screenshots/result.png)
 
 ---
 ## 👨‍💻 Автор
